@@ -1,14 +1,14 @@
-const button = document.querySelector("button");
+// const button = document.querySelector("button");
 
-button.addEventListener("click", function(){
+// button.addEventListener("click", function(){
 
     
 
-});
-const darkModeBtn = document.getElementById("darkModeBtn");
+// });
+// const darkModeBtn = document.getElementById("darkModeBtn");
 
-darkModeBtn.addEventListener("click", function(){
+// darkModeBtn.addEventListener("click", function(){
 
-    document.body.classList.toggle("dark-mode");
+    // document.body.classList.toggle("dark-mode");
 
-});
+// });
